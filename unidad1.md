@@ -63,7 +63,7 @@ Durante el comienzo de la materia "Teoria de la programacion" se puso en practic
 ## 🧮EJEMPLOS DE ALGORITMOS CON ESTRUCTURAS LINEALES/SECUENCIALES
 Para llevar a cabo este parametro he utilizado un caso basado en la vida real en el cual calculamos el descuento de una prenda, con datos como el precio general, el porcentaje de descuento que tiene, entre otros. Donde usare Pseint y lo transformare a código en C.
 
-📌 [Calculo Descuento](https://drive.google.com/drive/folders/15evrrCx_uRe3LYr671QAzcNhpFIH1PBP?usp=sharing)
+📌 [Ejercicios](https://drive.google.com/drive/folders/15evrrCx_uRe3LYr671QAzcNhpFIH1PBP?usp=sharing)
 
 Ademas comparto ejercicios realizados en el lenguaje de programación C
 

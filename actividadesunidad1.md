@@ -20,6 +20,9 @@ Tarea de ACD donde se realizo un codigo en PSeint donde calculaba en indice de m
 📌 [Cálculo IMC](https://drive.google.com/file/d/1Bq7rBuzHLw3dsbCwZb9Sc3GcNf3StsTW/view?usp=sharing)
 
 ## 🚀DEL DISEÑO DEL ALGORITMO CON ESTRUCTURAS SECUENCIALES A LA CONSTRUCCIÓN DEL PROGRAMA📝
+Aprendizaje Practico Experimental basado en la resolocuion de un problema de caliicaciones basado en tres notas principales para obyener un ponderado final con la que el estudiante aspira a pasar el ciclo.
+
+📌 [Notas Certamenes](https://drive.google.com/drive/folders/1rgiPazEd16b3Dm9EHQ393WkysCXYbKd2?usp=sharing)
 
 <p align="right">
   <a href="index.md">Volver a la página principal</a>

@@ -4,19 +4,44 @@
 ### ➡️Algoritmos🪜
 Defimos algoritmo como: Conjunto ordenado y finito de operaciones que permite hallar la solución de un problema [1]. Usamos esta misma definición para la materia de Computacion, sirviendo para el análisis previo, antes de la definicion de datos, Establecimiento de valores en la variables, entre otros.
 
-#### 🔢 Algoritmos Cuantitativos
-Los algoritmos cuantitativos son aquellos que involucran cálculos matemáticos y se basan exclusivamente en el procesamiento de datos numéricos (cantidades).
-#### 💬 Algoritmos Cualitativos
-Los algoritmos cualitativos son aquellos cuyas instrucciones se centran en realizar secuencias lógicas u operaciones no numéricas.
+| 🔢 ***Algoritmos Cuantitativos** | 💬 **Algoritmos Cualitativos** | 
+| :---:| :---: |
+| Los algoritmos cuantitativos son aquellos que involucran cálculos matemáticos y se basan exclusivamente en el procesamiento de datos numéricos (cantidades). | Los algoritmos cualitativos son aquellos cuyas instrucciones se centran en realizar secuencias lógicas u operaciones no numéricas. | 
+> Tabla 1.1: Comparación de los tipos de algoritmos.
 
-<div align="center">
-  <img src="https://www.titonet.com/wp-content/uploads/2021/10/Imagen-destacada-blog.2-30-1300x530.png" width="400">
-</div>
+- A continuación presentaremos un ejemplo que demuestre el aprendizaje, basandonos en los algoritmos de PSeint.
 
+<p align="center">
+  <img src="https://intef.es/wp-content/uploads/2023/05/5.jpg" alt="Descripción" width="60%">
+</p>
+El tema de la misma sera calculo de valores de x mediante la formula general.
+
+En la cual se siguio los siguientes pasos:
+
+1. Definir nombre del algoritmo y sus variables.
+
+2. Pedimos al usuario que ingrese los datos necesarios para llevar a cabo estos procesos, tal como lo son a, b, c (Datos de entrada). Usando el comando:
+
+| **Definir** |
+| :---:| 
+| **Leer** |
+
+3. Definimos el procedimiento (Proceso) que se debe llevar a cabo el aloritmo. (La formula para resolver ecuaciones cuadraticas)
+
+  | **x = (-b ± sqrt(b^2 - 4ac)) / (2a)** |              
+| :---:|
+
+- (sqrt) significa raiz cuadrada
+
+4. Mostramos la respuesta basada en el proceso. (Datos de salida).
+
+| **x1 = ....** |
+| :---:| 
+| **x2 = ....** |
 ---
 
 ### ➡️Pseudocodigo📜
-El pseudocódigo es una herramienta utilizada para representar de manera abstracta y simplificada los pasos que un algoritmo debe seguir [2]. Siendo de muvha importancia para usuarios que inician en el mundo de la programacion.
+El pseudocódigo es una herramienta utilizada para representar de manera abstracta y simplificada los pasos que un algoritmo debe seguir [2]. Usando una combinacion simple del lenguaje natural y elementos  de programacion, sin seguir especificaciones fijas de un lenguaje avanzado. Siendo de mucha importancia para usuarios que inician en el mundo de la programacion.
 
 ##### 📁✅Trabajos realizados en Pseudocódigo
 Para ello se empleo el programa **PSeint** que es un programa multiplataforma que permite
@@ -24,8 +49,10 @@ Para ello se empleo el programa **PSeint** que es un programa multiplataforma qu
 2) Ejecutar eficintemente los mismos.
 3) Adjuntar diagramas de flujo a los algoritmos empleados.
 
+- A continuación presentaremos un ejemplo que demuestre el aprendizaje, basandonos en pseudocódigos de PSeint.
+
 <div align="center">
-  <img src="https://i.ytimg.com/vi/2UvW_ziPRlM/hqdefault.jpg" width="400">
+  <img src="" width="400">
 </div>
 
 Adjunto archivo que muestra actividades realizadas en la app PSeint.
@@ -81,6 +108,22 @@ Ademas comparto ejercicios realizados en el lenguaje de programación C
 
 Durante esta primera unidad en la materia mis conocimientos crecieron de forma considerable, aquellos que mas adelante serviran para mi vida profecional. Tanto su logica, estructura, analisis entre otros. O bien me sirve como punto de partida para lenguajes de codigos mas avanzados.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+📌 [Ejercicios PSeint](https://drive.google.com/drive/folders/17QheQEfBIS9Ezvk9A3kTxGypchW17sva?usp=sharing)
 <p align="right">
   <a href="index.md">Volver a la página principal</a>
 </p>

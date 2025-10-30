@@ -49,15 +49,31 @@ Para ello se empleo el programa **PSeint** que es un programa multiplataforma qu
 2) Ejecutar eficintemente los mismos.
 3) Adjuntar diagramas de flujo a los algoritmos empleados.
 
-- A continuación presentaremos un ejemplo que demuestre el aprendizaje, basandonos en pseudocódigos de PSeint.
+- A continuación presentaremos un ejemplo que demuestre el aprendizaje:
+
+En el cual usamos el lenguaje de PSeudocódigo "PSeint" donde el lenguaje base para establecer los algoritmos, es el Español (Castellano), donde facilmente podremos realizar un borrador y una vez validado, pasarlo o transformarlo a un lenguaje de programacion formal.
 
 <div align="center">
-  <img src="" width="400">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgASFcMGCHpaicoNGQJxAfmW8GQXX0fy7np1aBxMXXFnD8hQ-NnwtboluuZEpR96RfRxNO-Q2XwBgTmjQUlf8s_EduoGeOkwD7xNT8Xl3gXhQP4zYn3sPAkQaE1lgJJomO4sPlzeMWwaRTVU13D9YIqUrjJfnL6IPnVUm6NAzJtWPNA3yQYqpxrc9stZMw=w400-h163" width="700">
 </div>
 
-Adjunto archivo que muestra actividades realizadas en la app PSeint.
+En el cual se siguio los siguientes pasos para su correcta isntitucion.
 
-📌 [Ejercicios PSeint](https://drive.google.com/drive/folders/17QheQEfBIS9Ezvk9A3kTxGypchW17sva?usp=sharing)
+1) Definimos las variables en las cuales se guardaran nuestros valores.
+
+| CambioRecibido | dineroDisponible | costoProducto | 
+| :---:| :---: | :---: | 
+
+2) Definimos el proceso que se llevara a cabo en el cual: El usuario establecera el valor de el producto que desea adquirir y cuanto efectivo posee.
+
+Para luego realizar una resta, la cual mostrara cual es el cambio que recibira. 
+
+| CambioRecibido <- dineroDisponible-costoProducto| 
+| :---:| 
+
+3) Para demostrar mas seguridad en nuestro codigo, lo mas correcto seria realizar "Pruebas de escritorio", que son prubas realizadas externamente con varios valores para demostrar que el codigo actua de forma eficiente.
+
+
 
 ---
 

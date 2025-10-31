@@ -1,4 +1,24 @@
+<div align="center">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEh8nLvFWvLUvbVkUF5iaK4QUUPIXLkIeGmo4onr5StjJRjruDyES-LKtqrjQ3hQ5GaH6qQR5_QEJewx7x_oZiOP1BDeJyDDE0qMjROokeIdAhmBIZ7mHICmZ19M42Y3FmDbYFqDpskE_LNZgxKf7q72yyu9klIgzUrPPbpIdgfAwSFGb6rhkcOkvrMvQf0" width="300">
+</div>
 
+---
+## 📢PRESENTACIÓN
+
+### 🎓Estudiante:
+
+Julián Merino
+### 👩‍🏫Docente: 
+
+Ing.Lissette Lopéz
+### 🔁Ciclo: 
+
+1
+### 📝Materia: 
+
+Teoría de la Programación
+
+---
 
 # 💻 Teoría de la Programación
 ## 🚀 Portafolio Digital de Aprendizaje

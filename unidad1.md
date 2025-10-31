@@ -2,7 +2,7 @@
 ## 🧠⚙️ ALGORITMOS, PSEUDOCODIGOS, DIAGRAMAS DE FLUJO.
 
 ### ➡️Algoritmos🪜
-Defimos algoritmo como: Conjunto ordenado y finito de operaciones que permite hallar la solución de un problema [1]. Usamos esta misma definición para la materia de Computacion, sirviendo para el análisis previo, antes de la definicion de datos, Establecimiento de valores en la variables, entre otros.
+Defimos algoritmo como: Conjunto ordenado y finito de operaciones que permite hallar la solución de un problema [1]. Usamos esta misma definición para la materia de Computación, sirviendo para el análisis previo, antes de la definición de datos, Establecimiento de valores en la variables, entre otros.
 
 | 🔢 ***Algoritmos Cuantitativos** | 💬 **Algoritmos Cualitativos** | 
 | :---:| :---: |
@@ -29,7 +29,7 @@ En la cual se siguio los siguientes pasos:
 | :---:| 
 | **Leer** |
 
-3. Definimos el procedimiento (Proceso) que se debe llevar a cabo el aloritmo. (La formula para resolver ecuaciones cuadraticas)
+3. Definimos el procedimiento (Proceso) que se debe llevar a cabo el algoritmo. (La fórmula para resolver ecuaciones cuadráticas)
 
   | **x = (-b ± sqrt(b^2 - 4ac)) / (2a)** |              
 | :---:|
@@ -44,7 +44,7 @@ En la cual se siguio los siguientes pasos:
 ---
 
 ### ➡️Pseudocodigo📜
-El pseudocódigo es una herramienta utilizada para representar de manera abstracta y simplificada los pasos que un algoritmo debe seguir [2]. Usando una combinacion simple del lenguaje natural y elementos  de programacion, sin seguir especificaciones fijas de un lenguaje avanzado. Siendo de mucha importancia para usuarios que inician en el mundo de la programacion.
+El pseudocódigo es una herramienta utilizada para representar de manera abstracta y simplificada los pasos que un algoritmo debe seguir [2]. Usando una combinacion simple del lenguaje natural y elementos  de programacion, sin seguir especificaciones fijas de un lenguaje avanzado. Siendo de mucha importancia para usuarios que inician en el mundo de la programación.
 
 ##### 📁✅Trabajos realizados en Pseudocódigo
 Para ello se empleo el programa **PSeint** que es un programa multiplataforma que permite
@@ -54,7 +54,7 @@ Para ello se empleo el programa **PSeint** que es un programa multiplataforma qu
 
 - A continuación presentaremos un ejemplo que demuestre el aprendizaje:
 
-En el cual usamos el lenguaje de PSeudocódigo "PSeint" donde el lenguaje base para establecer los algoritmos, es el Español (Castellano), donde facilmente podremos realizar un borrador y una vez validado, pasarlo o transformarlo a un lenguaje de programacion formal.
+En el cual usamos el lenguaje de PSeudocódigo "PSeint" donde el lenguaje base para establecer los algoritmos, es el Español (Castellano), donde facilmente podremos realizar un borrador y una vez validado, pasarlo o transformarlo a un lenguaje de programación formal.
 
 <div align="center">
   <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgASFcMGCHpaicoNGQJxAfmW8GQXX0fy7np1aBxMXXFnD8hQ-NnwtboluuZEpR96RfRxNO-Q2XwBgTmjQUlf8s_EduoGeOkwD7xNT8Xl3gXhQP4zYn3sPAkQaE1lgJJomO4sPlzeMWwaRTVU13D9YIqUrjJfnL6IPnVUm6NAzJtWPNA3yQYqpxrc9stZMw=w400-h163" width="800">
@@ -71,7 +71,7 @@ En el cual se siguio los siguientes pasos para su correcta isntitucion.
 
 2) Definimos el proceso que se llevara a cabo en el cual: El usuario establecera el valor de el producto que desea adquirir y cuanto efectivo posee.
 
-Para luego realizar una resta, la cual mostrara cual es el cambio que recibira. 
+Para luego realizar una resta, la cual mostrara cual es el cambio que recibirá. 
 
 | CambioRecibido <- dineroDisponible-costoProducto| 
 | :---:| 
@@ -103,9 +103,9 @@ Explicacion del diagrama de flujo:
 
 **Datos de entrada** -> Datos que necesita el algoritmo para llevar a cabo el proceso establecido en el mismo.
 
-**Datos de salida** -> Datos que arrojara el algoritmo unja vez finalizado, en base al proceso y los datos establecidos.
+**Datos de salida** -> Datos que arrojara el algoritmo una vez finalizado, en base al proceso y los datos establecidos.
 
-3) los rectangulos son asiganaciones o proceso que se lleva a cabo en el algoritmo o Pseudocódigo.
+3) Los rectangulos son asiganaciones o proceso que se lleva a cabo en el algoritmo o Pseudocódigo.
  ---
  ## 🧱PROGRAMACION POR BLOQUES🧩
 Es un método visual de programacion facil y eficaz,donde se usan bloques gráficos de colores que se arrastran y se sueltan de manera ordenada para que las acciones tomen un rumbo coherente. Evitando lineas de código complejas para principiantes en el mundo de la programación.

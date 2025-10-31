@@ -14,6 +14,9 @@ Defimos algoritmo como: Conjunto ordenado y finito de operaciones que permite ha
 <p align="center">
   <img src="https://intef.es/wp-content/uploads/2023/05/5.jpg" alt="Descripción" width="60%">
 </p>
+
+> Fig 1. Algoritmo Pseint
+
 El tema de la misma sera calculo de valores de x mediante la formula general.
 
 En la cual se siguio los siguientes pasos:
@@ -57,6 +60,8 @@ En el cual usamos el lenguaje de PSeudocódigo "PSeint" donde el lenguaje base p
   <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgASFcMGCHpaicoNGQJxAfmW8GQXX0fy7np1aBxMXXFnD8hQ-NnwtboluuZEpR96RfRxNO-Q2XwBgTmjQUlf8s_EduoGeOkwD7xNT8Xl3gXhQP4zYn3sPAkQaE1lgJJomO4sPlzeMWwaRTVU13D9YIqUrjJfnL6IPnVUm6NAzJtWPNA3yQYqpxrc9stZMw=w400-h163" width="800">
 </div>
 
+> Fig 2. Pseudocódigo Pseint
+
 En el cual se siguio los siguientes pasos para su correcta isntitucion.
 
 1) Definimos las variables en las cuales se guardaran nuestros valores.
@@ -89,6 +94,8 @@ Un diagrama de flujo es un diagrama que describe un proceso, sistema o algoritmo
   <img src="https://blogger.googleusercontent.com/img/a/AVvXsEh8h9mSYbgFCcsH4gZhYOy75xwVk5GG7OLzxiw_2VfqTeyOZhY9FamNpYcdSx-ctPES9kHpQ6QldPPYqCJd5p0Bie4cRzV4hs8YEtuPiUZC6UVyKERYM2u_o0RU9O8KCV5NTtasKMo7lzV1gBk_L9IiaOhsEJquu2uwZAPL_KDwaolVl0FT9SmEMeXV_xM" width="400">
 </div>
 
+> Fig 3. Diagramas de flujo
+
 Explicacion del diagrama de flujo:
 
 1) Los recuadros del comienzo y del final en forma de óvalo, determinan el inicio y el final del algorimo como se muestra en la imagen.
@@ -109,6 +116,8 @@ A continuacion describiremos un ejemplo de programacion por bloques, en forma de
   <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiGREH6F1Fl5MZLRDU2anYC9jDdQHK8IQgOpq1wlx5Usq8ga18tXYP-91b1jB3BhB2qfOVd20c5D6t92P73nIL7z5-Bp3DgTVhwvgZEBc4VjW_vH8QoiANbrf2TJ0NF2RhcTZkPOK22aC1Kzgp4evItC6CyanlRpWYMlHhCe9V1VCrG86HrkWAM0f1-ABc" width="400">
 </div>
 
+> Fig 4. Programacion por bloques
+
 En este ejemplo que se presenta a continuacion se utilizo el siguiente proceso:
 
 - Se uso el bloque "Al empezar ejecutar", el cual ejecutara los demas bloques que se le asignen al iniciar el programa.
@@ -124,6 +133,8 @@ Para llevar a cabo este parametro he utilizado un caso basado en la vida real en
 <div align="center">
   <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjS3jbmQQ7T-bxl2Xv9i4u2Dk1KJNbT95L9JrAoSVWvOlifz-f7qNRnBsG-Ym5HJxGOjyUqcXmDOuk78YBog4nkBKx-tZ7UKpGOHn4BfsmyZrjoAN_EQkmj0ToGPVZDnJLY7Z_LCTQko-vmzGlXDQ7iKElYlHSHw3OZmNvR_eTuK1trTcS3xKaJabtdXBM" width="700">
 </div>
+
+> Fig 5. Código PSeint
 
 - **Pasos a seguir**
 
@@ -154,6 +165,8 @@ Para llevar a cabo este parametro he utilizado un caso basado en la vida real en
 <div align="center">
   <img src="https://blogger.googleusercontent.com/img/a/AVvXsEg5qGIGy9dfbZ3O0NEXECcnE5FKJVPitlSCMH8mlcKDeS3XMLbSsRVPfSlTjz4d9d0XGyWEpxcVLpINxOOPVO_qlTxBRHS37iH65UONhWo1rqh3wdsppJ0GqVtDPtlpmPN2ZS3yhOedfMsZ1EbnX32rlKI0dp24l3FpgOwDybqA-ZqX0V6zZtAwF5h4ixk" width="700">
 </div>
+
+> Fig 6. Código en C
 
 - **Pasos a seguir**
 

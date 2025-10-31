@@ -1,5 +1,5 @@
 # ✅TAREAS ENTREGADAS UNIDAD 1📦
-En este apartado se mostraran las tareas adjuntadas en el EVA (Entorno Virtual de Aprendizaje) durante la primera unidad de la materia "Teoria de la Programacion"
+En este apartado se mostraran las tareas adjuntadas en el EVA (Entorno Virtual de Aprendizaje) durante la primera unidad de la materia "Teoria de la Programacion" 
 
 ---
 ## 🛠️Herramientas de algoritmos (pseudocódigo y diagramas de flujo)⚙️

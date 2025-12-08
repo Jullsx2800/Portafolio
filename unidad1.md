@@ -27,7 +27,7 @@ En el cual usamos el lenguaje de PSeudocódigo "PSeint" donde el lenguaje base p
 <div align="center">
 <img src="https://cdn.discordapp.com/attachments/1347778788964040717/1447408338236342353/Captura_de_pantalla_2025-12-07_204734.png?ex=6937838f&is=6936320f&hm=bdce18dc9d773199d6fcf934165b8d8170983dc3481ef088f7e505064e725975&" width="800"> </div>
 
-> Fig 1. Ejemplo de pseudocódigo (CambioP)
+> Fig 1. Ejemplo de pseudocódigo (Cambio Recibido)
 
 >
 
@@ -52,7 +52,7 @@ Para luego realizar una resta, la cual mostrara cual es el cambio que recibirá.
 | 50 $ | 17.50 $ | 50 $ - 17.50 $ | 32.5 $ |
 | 57.36 $ | 35 $ | 57.36 $ - 35 $ | 22.36 $ |
 | 85.90 $ | 80.99 $ | 85.90 $ - 80.99 $ | 4.91 $ |
-> Tabla 2: Pruebas de escritorio.
+> Tabla 2: Pruebas de escritorio (Cambio Recibido).
 ---
 
 ### 📉Diagramas de flujo🧠
@@ -60,10 +60,10 @@ Para luego realizar una resta, la cual mostrara cual es el cambio que recibirá.
 Un diagrama de flujo es un diagrama que describe un proceso, sistema o algoritmo informático [3]. Muestra de manera detallada el proceso que se lleva a cabo despues de planificar el algoritmo y definir cada parametro del codigo. Ademas su estructura basada en flechas facilita en entendimiento del mismo y el orden que sigue.
 
 <div align="center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEh8h9mSYbgFCcsH4gZhYOy75xwVk5GG7OLzxiw_2VfqTeyOZhY9FamNpYcdSx-ctPES9kHpQ6QldPPYqCJd5p0Bie4cRzV4hs8YEtuPiUZC6UVyKERYM2u_o0RU9O8KCV5NTtasKMo7lzV1gBk_L9IiaOhsEJquu2uwZAPL_KDwaolVl0FT9SmEMeXV_xM" width="400">
+  <img src="https://cdn.discordapp.com/attachments/1347778788964040717/1447424102561353758/image.png?ex=6937923d&is=693640bd&hm=8829077cbeebae1c8839816cacddf88cb4cfeb454ce06ce4bd5a708b076bd377&" width="600">
 </div>
 
-> Fig 2. Diagramas de flujo
+> Fig 2. Diagramas de flujo (Cambio Recibido)
 
 
 
@@ -134,10 +134,10 @@ Para llevar a cabo este parametro he utilizado un caso basado en la vida real en
 - ### Ejecución en C (Cálculo del área de un terreno).
 
 <div align="center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEg5qGIGy9dfbZ3O0NEXECcnE5FKJVPitlSCMH8mlcKDeS3XMLbSsRVPfSlTjz4d9d0XGyWEpxcVLpINxOOPVO_qlTxBRHS37iH65UONhWo1rqh3wdsppJ0GqVtDPtlpmPN2ZS3yhOedfMsZ1EbnX32rlKI0dp24l3FpgOwDybqA-ZqX0V6zZtAwF5h4ixk" width="700">
+  <img src="https://cdn.discordapp.com/attachments/1347778788964040717/1447422602581643377/image.png?ex=693790d8&is=69363f58&hm=da1fa50aaf5636193b302a1c7daad286f34fef1e3a604c78254edc128c40ebb8&" width="700">
 </div>
 
-> Fig 5. Código en C
+> Fig 5. Código en C (Cálculo de tereno)
 
 - **Pasos a seguir**
 
@@ -189,7 +189,7 @@ Para realizar la correcta comprobación del código usamos las pruebas de escrit
 | 15 | 16 | 15 * 16 | 240 m2 |
 | 5 | 9 | 5 * 9 | 45 m2 |
 | 10 | 17 | 10 * 17 | 170 m2 |
-> Tabla 4: Pruebas de escritorio (Lenguaje C).
+> Tabla 4: Pruebas de escritorio (Lenguaje C - Calculo de area de un terreno).
  
 ---
 

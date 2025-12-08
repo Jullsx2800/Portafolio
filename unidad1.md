@@ -7,7 +7,7 @@ Defimos algoritmo como: Conjunto ordenado y finito de operaciones que permite ha
 | 🔢 **Algoritmos Cuantitativos** | 💬 **Algoritmos Cualitativos** | 
 | :---:| :---: |
 | Los algoritmos cuantitativos son aquellos que involucran cálculos matemáticos y se basan exclusivamente en el procesamiento de datos numéricos (cantidades). | Los algoritmos cualitativos son aquellos cuyas instrucciones se centran en realizar secuencias lógicas u operaciones no numéricas. | 
-> Tabla 1.1: Comparación de los tipos de algoritmos.
+> Tabla 1: Comparación de los tipos de algoritmos.
 
 ---
 
@@ -25,10 +25,11 @@ Para ello se empleo el programa **PSeint** que es un programa multiplataforma qu
 En el cual usamos el lenguaje de PSeudocódigo "PSeint" donde el lenguaje base para establecer los algoritmos, es el Español (Castellano), donde facilmente podremos realizar un borrador y una vez validado, pasarlo o transformarlo a un lenguaje de programación formal.
 
 <div align="center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgASFcMGCHpaicoNGQJxAfmW8GQXX0fy7np1aBxMXXFnD8hQ-NnwtboluuZEpR96RfRxNO-Q2XwBgTmjQUlf8s_EduoGeOkwD7xNT8Xl3gXhQP4zYn3sPAkQaE1lgJJomO4sPlzeMWwaRTVU13D9YIqUrjJfnL6IPnVUm6NAzJtWPNA3yQYqpxrc9stZMw=w400-h163" width="800">
-</div>
+<img src="https://cdn.discordapp.com/attachments/1347778788964040717/1447408338236342353/Captura_de_pantalla_2025-12-07_204734.png?ex=6937838f&is=6936320f&hm=bdce18dc9d773199d6fcf934165b8d8170983dc3481ef088f7e505064e725975&" width="800"> </div>
 
-> Fig 2. Pseudocódigo Pseint
+> Fig 1. Ejemplo de pseudocódigo (CambioP)
+
+>
 
 En el cual se siguio los siguientes pasos para su correcta isntitucion.
 
@@ -51,7 +52,7 @@ Para luego realizar una resta, la cual mostrara cual es el cambio que recibirá.
 | 50 $ | 17.50 $ | 50 $ - 17.50 $ | 32.5 $ |
 | 57.36 $ | 35 $ | 57.36 $ - 35 $ | 22.36 $ |
 | 85.90 $ | 80.99 $ | 85.90 $ - 80.99 $ | 4.91 $ |
-> Tabla 2.1: Pruebas de escritorio.
+> Tabla 2: Pruebas de escritorio.
 ---
 
 ### 📉Diagramas de flujo🧠
@@ -62,7 +63,9 @@ Un diagrama de flujo es un diagrama que describe un proceso, sistema o algoritmo
   <img src="https://blogger.googleusercontent.com/img/a/AVvXsEh8h9mSYbgFCcsH4gZhYOy75xwVk5GG7OLzxiw_2VfqTeyOZhY9FamNpYcdSx-ctPES9kHpQ6QldPPYqCJd5p0Bie4cRzV4hs8YEtuPiUZC6UVyKERYM2u_o0RU9O8KCV5NTtasKMo7lzV1gBk_L9IiaOhsEJquu2uwZAPL_KDwaolVl0FT9SmEMeXV_xM" width="400">
 </div>
 
-> Fig 3. Diagramas de flujo
+> Fig 2. Diagramas de flujo
+
+
 
 Explicacion del diagrama de flujo:
 
@@ -84,7 +87,7 @@ A continuacion describiremos un ejemplo de programacion por bloques, en forma de
   <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiGREH6F1Fl5MZLRDU2anYC9jDdQHK8IQgOpq1wlx5Usq8ga18tXYP-91b1jB3BhB2qfOVd20c5D6t92P73nIL7z5-Bp3DgTVhwvgZEBc4VjW_vH8QoiANbrf2TJ0NF2RhcTZkPOK22aC1Kzgp4evItC6CyanlRpWYMlHhCe9V1VCrG86HrkWAM0f1-ABc" width="400">
 </div>
 
-> Fig 4. Programacion por bloques
+> Fig 3. Programacion por bloques
 
 En este ejemplo que se presenta a continuacion se utilizo el siguiente proceso:
 
@@ -102,7 +105,7 @@ Para llevar a cabo este parametro he utilizado un caso basado en la vida real en
   <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjS3jbmQQ7T-bxl2Xv9i4u2Dk1KJNbT95L9JrAoSVWvOlifz-f7qNRnBsG-Ym5HJxGOjyUqcXmDOuk78YBog4nkBKx-tZ7UKpGOHn4BfsmyZrjoAN_EQkmj0ToGPVZDnJLY7Z_LCTQko-vmzGlXDQ7iKElYlHSHw3OZmNvR_eTuK1trTcS3xKaJabtdXBM" width="700">
 </div>
 
-> Fig 5. Código PSeint
+> Fig 4. Código PSeint (Cálculo área de un terreno)
 
 - **Pasos a seguir**
 
@@ -126,7 +129,7 @@ Para llevar a cabo este parametro he utilizado un caso basado en la vida real en
 | 15 | 16 | 15 * 16 | 240 m2 |
 | 5 | 9 | 5 * 9 | 45 m2 |
 | 10 | 17 | 10 * 17 | 170 m2 |
-> Tabla 3.1: Pruebas de escritorio.
+> Tabla 3: Pruebas de escritorio (Cálculo área de un terreno).
 
 - ### Ejecución en C (Cálculo del área de un terreno).
 
@@ -134,7 +137,7 @@ Para llevar a cabo este parametro he utilizado un caso basado en la vida real en
   <img src="https://blogger.googleusercontent.com/img/a/AVvXsEg5qGIGy9dfbZ3O0NEXECcnE5FKJVPitlSCMH8mlcKDeS3XMLbSsRVPfSlTjz4d9d0XGyWEpxcVLpINxOOPVO_qlTxBRHS37iH65UONhWo1rqh3wdsppJ0GqVtDPtlpmPN2ZS3yhOedfMsZ1EbnX32rlKI0dp24l3FpgOwDybqA-ZqX0V6zZtAwF5h4ixk" width="700">
 </div>
 
-> Fig 6. Código en C
+> Fig 5. Código en C
 
 - **Pasos a seguir**
 
@@ -186,9 +189,34 @@ Para realizar la correcta comprobación del código usamos las pruebas de escrit
 | 15 | 16 | 15 * 16 | 240 m2 |
 | 5 | 9 | 5 * 9 | 45 m2 |
 | 10 | 17 | 10 * 17 | 170 m2 |
-> Tabla 3.1: Pruebas de escritorio (Lenguaje C).
+> Tabla 4: Pruebas de escritorio (Lenguaje C).
  
 ---
+
+- **Compilacion y ejecución** ( En base a pruebas de escritorio )
+
+<div align="center">
+  <img src="https://cdn.discordapp.com/attachments/1347778788964040717/1447421035585470696/image.png?ex=69378f62&is=69363de2&hm=fb71b758d9c3326a19e9e9df9a332aad527ee55fd77f7982b8495ea6250ee481&" width="700">
+</div>
+
+> Fig 6. Primera prueba en terminal de VS Code
+
+---
+
+<div align="center">
+  <img src="https://cdn.discordapp.com/attachments/1347778788964040717/1447421735707082914/image.png?ex=69379009&is=69363e89&hm=387ced989c7260d3df46334b21550a04530eccc14312b1d30ebf21f36f7240e4&" width="700">
+</div>
+
+> Fig 6. Segunda prueba en terminal de VS Code
+
+---
+
+<div align="center">
+  <img src="https://cdn.discordapp.com/attachments/1347778788964040717/1447422163954172075/image.png?ex=6937906f&is=69363eef&hm=b5fc3c11613a97237abcdd467e29d0776ae089e01918556a21803539569b6b18&" width="700">
+</div>
+
+> Fig 6. Tercera prueba en terminal de VS Code
+
 
 ## 🚧PRINCIPALES DIFICULTADES EN LA APLICACIÓN DE LOS CONTENIDOS🔑
 

@@ -4,43 +4,11 @@
 ### ➡️Algoritmos🪜
 Defimos algoritmo como: Conjunto ordenado y finito de operaciones que permite hallar la solución de un problema [1]. Usamos esta misma definición para la materia de Computación, sirviendo para el análisis previo, antes de la definición de datos, Establecimiento de valores en la variables, entre otros.
 
-| 🔢 ***Algoritmos Cuantitativos** | 💬 **Algoritmos Cualitativos** | 
+| 🔢 **Algoritmos Cuantitativos** | 💬 **Algoritmos Cualitativos** | 
 | :---:| :---: |
 | Los algoritmos cuantitativos son aquellos que involucran cálculos matemáticos y se basan exclusivamente en el procesamiento de datos numéricos (cantidades). | Los algoritmos cualitativos son aquellos cuyas instrucciones se centran en realizar secuencias lógicas u operaciones no numéricas. | 
 > Tabla 1.1: Comparación de los tipos de algoritmos.
 
-- A continuación presentaremos un ejemplo que demuestre el aprendizaje, basandonos en los algoritmos de PSeint.
-
-<p align="center">
-  <img src="https://intef.es/wp-content/uploads/2023/05/5.jpg" alt="Descripción" width="60%">
-</p>
-
-> Fig 1. Algoritmo Pseint
-
-El tema de la misma sera calculo de valores de x mediante la formula general.
-
-En la cual se siguio los siguientes pasos:
-
-1. Definir nombre del algoritmo y sus variables.
-
-2. Pedimos al usuario que ingrese los datos necesarios para llevar a cabo estos procesos, tal como lo son a, b, c (Datos de entrada). Usando el comando:
-
-| **Definir** |
-| :---:| 
-| **Leer** |
-
-3. Definimos el procedimiento (Proceso) que se debe llevar a cabo el algoritmo. (La fórmula para resolver ecuaciones cuadráticas)
-
-  | **x = (-b ± sqrt(b^2 - 4ac)) / (2a)** |              
-| :---:|
-
-- (sqrt) significa raiz cuadrada
-
-4. Mostramos la respuesta basada en el proceso. (Datos de salida).
-
-| **x1 = ....** |
-| :---:| 
-| **x2 = ....** |
 ---
 
 ### ➡️Pseudocodigo📜

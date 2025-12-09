@@ -26,12 +26,12 @@ Teoría de la Programación
 ### I. 📚 Unidad 1: 
 [📁CONTENIDOS UNIDAD 11️⃣](unidad1.md)
 
-[📚ACTIVIDADES UNIDAD 1🛠️](actividadesEntregadasUnidad1.md)
+[📚ACTIVIDADES UNIDAD 1🛠️](tareasEntregadasUnidad1.md)
 ### II. 💡 Unidad 2: 
 
 [📁CONTENIDOS UNIDAD 22️⃣](unidad2.md)
 
-[📚ACTIVIDADES UNIDAD 2🛠️](actividadesEntregadasUnidad2.md)
+[📚ACTIVIDADES UNIDAD 2🛠️](tareasEntregadasUnidad2.md)
 
 
 

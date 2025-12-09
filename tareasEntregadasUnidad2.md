@@ -22,10 +22,14 @@ Esta actividad tiene el propósito de analizar y representar los diferentes tipo
 
 📌 [Diferencias entre los tipos de estructuras condicionales](https://drive.google.com/file/d/1bQJQrBjGQQ7ebO-libtgkFMP7mwyX5Vb/view?usp=sharing)
 
+---
+
 ## 📊 Cuadro Comparativo Entre Estructuras Repetitivas 🔄🆚##
 Esta actividad tiene el propósito de analizar y comparar las principales estructuras repetitivas utilizadas en programación, identificando sus características, diferencias y aplicaciones.
 
 📌 [Cuadro Comparativo Entre Estructuras Repetitivas](https://drive.google.com/file/d/15Mmvro3leLGTpOAnvZ-9F39E0pWSMmb1/view?usp=sharing)
+
+---
 
 <p align="right">
   <a href="index.md">Volver a la página principal</a>

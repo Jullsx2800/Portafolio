@@ -518,7 +518,7 @@ Durante esta unidad, el mayor reto que se me ha presentado es desarrollar una l�
 
 ---
 
-### 🧐 Reflexión crítica de los aprendizajes de la unidad 💡###
+### 🧐 Reflexión crítica de los aprendizajes de la unidad 💡
 
 En esta unidad ha sido de mucha utilidad aprender acerca de estas estructuras, ya que nos ayudan mucho con la automatización de bloques de código y la toma correcta de decisiones en base a opciones predeterminadas, lo que mostró una mejora significativa en la eficiencia de los programas y en cómo estos aportan de mejor manera en situaciones de la vida cotidiana.
 

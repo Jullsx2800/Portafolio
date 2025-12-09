@@ -253,7 +253,7 @@ Se solicita al usuario ingresar un número y, en base a ello, se evalúa que se 
 
 ## 🔄🔁 ESTRUCTURAS REPETITIVAS ♾️ ##
 ### ⏳Estructura Repetitiva -- "while" 🔄 ###
-While se usa en cualquier expresión simple que al evaluarse devuelve el valor verdadero o falso. El bucle se repite mientras la condición sea verdadera. Cuando es falsa, el programa pasa a la instrucción siguiente, después del cuerpo de la estructur [1].
+While se usa en cualquier expresión simple que al evaluarse devuelve el valor verdadero o falso. El bucle se repite mientras la condición sea verdadera. Cuando es falsa, el programa pasa a la instrucción siguiente, después del cuerpo de la estructur [4].
 #### 💻 Ejemplo usando la estructura condicional "while" ####a
 
 - Descripción del Problema
@@ -324,7 +324,7 @@ Se incluyen los principales fundamentos del lenguaje C, luego se pide al usuario
 
 ### ⚙️ Estructura Repetitiva -- "do-while" 🔄 ###
 Para el elemento do-while se evalúa la condición después de que se ejecute el cuerpo del bucle. Por consiguiente, el cuerpo del bucle se ejecuta siempre al
-menos una vez[2].
+menos una vez[5].
 #### 💻 Ejemplo usando la estructura condicional "do-while" ####
 
 - Descripción del Problema
@@ -393,7 +393,7 @@ Se incluyen los principales fundamentos del lenguaje C, luego se pide al usuario
 ---
 
 ### 🔢 Estructura Repetitiva -- "for" 🏁 ###
-La estructura for se usa en aquellas situaciones en las cuales CONOCEMOS la cantidad de veces que queremos que se ejecute el bloque de instrucciones[3]. Manejando iteraciones definidas o limitadas o bucles controladas por contador.
+La estructura for se usa en aquellas situaciones en las cuales CONOCEMOS la cantidad de veces que queremos que se ejecute el bloque de instrucciones[6]. Manejando iteraciones definidas o limitadas o bucles controladas por contador.
 
 #### 💻 Ejemplo usando la estructura condicional "do-while" ####
 
